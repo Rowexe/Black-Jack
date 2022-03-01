@@ -14,5 +14,7 @@ Please leave the 'cards' folder as it is as this is where all the cards are ; NO
 
 # Credits
 Coding: Rowexe
+
 Styling: Rowexe
+
 Cards: http://svg-cards.sourceforge.net/
