@@ -5,7 +5,7 @@ Play the classic blackjack game easily without having ads, 'pay-to-wins'
 Download the latest .zip file, read the "readme's" first
 
 # Instructions
-Please leave the 'cards' folder as it is as this is where all the cards are ; NOTE: These cards are from a website that means I did NOT create them (more on that on the 'readme')
+Please leave the 'cards' folder as it is as this is where all the cards are ; NOTE: These cards are from a website that means I did NOT create them (more on that on the 'readme' and in the 'credits' below)
 
 # ScreenShots
 ![image](https://user-images.githubusercontent.com/89658050/156209604-2a80e269-d856-41c7-a7de-2f7a68540f71.png)
